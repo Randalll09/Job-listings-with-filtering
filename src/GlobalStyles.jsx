@@ -23,7 +23,10 @@ const GlobalStyles = createGlobalStyle`
     list-style: none;
   }
   body{
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Ubuntu', sans-serif;;
+    font-weight: 500;
+    line-height: 24px;
+    font-size: 16px;
   }
 `;
 
